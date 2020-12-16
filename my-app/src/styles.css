@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  margin: 10px 1px;
+  width: 99px;
+  height: 30px;
+}
+
+.btn:hover {
+  background-color: yellow;
+  color: black;
+}
+
+input {
+  width: 200px;
+  padding: 10px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+
+.modal {
+  border-style: groove;
+  padding: 20px 40px;
+  margin: 100px;
+  width: 300px;
+  /*transform: translateY(-50%, -50%);*/
+}
+
+/*
+.myinput span {
+  display: inline-block;
+  width: 80px;
+  height: 2ch;
+  border: 1px red solid;
+  background-color: yellow;
+}
+
+button {
+  width: 120px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.modal {
+  border: 1px green solid;
+  margin: 10px;
+  padding: 10px;
+  position: fixed;
+  width: 400px;
+  height: 300px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-200px, -150px);
+}
+*/
